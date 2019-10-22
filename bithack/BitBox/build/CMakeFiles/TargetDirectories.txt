@@ -1,0 +1,3 @@
+C:/Users/bithack/Desktop/bithack/BitBox/build/CMakeFiles/bithack_base.dir
+C:/Users/bithack/Desktop/bithack/BitBox/build/CMakeFiles/edit_cache.dir
+C:/Users/bithack/Desktop/bithack/BitBox/build/CMakeFiles/rebuild_cache.dir
